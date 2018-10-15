@@ -1,6 +1,7 @@
 # flashflag
 Flashflag can change value of flag defined in go flag without break your daemon.
 
+
 <pre><code>
 	// create(or set) /conf/mysvr.f-int 5  // for all nodes.
 	// create(or set) /conf/mysvr.node1.f-int 5  // for node1 only.
